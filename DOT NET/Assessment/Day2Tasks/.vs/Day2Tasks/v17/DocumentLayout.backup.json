@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\irebate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:irebate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\idataingestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:idataingestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\alarmrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:alarmrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\loadprofileday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:loadprofileday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\ibillingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:ibillingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|d:\\esyasoft-get\\dot net\\advance training\\day2tasks\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F098F056-F18B-47E5-ACC4-FEF71F55FD6C}|Day2Tasks.csproj|solutionrelative:ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "52e6a103-c4b2-400b-bad0-d0f3d8d9700d",
+        "Display": 0,
+        "X": 0,
+        "Y": 65,
+        "Width": 800,
+        "Height": 600,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:04:32.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRebate.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IRebate.cs",
+              "RelativeDocumentMoniker": "IRebate.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IRebate.cs",
+              "RelativeToolTip": "IRebate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:09:33.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDataIngestor.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IDataIngestor.cs",
+              "RelativeDocumentMoniker": "IDataIngestor.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IDataIngestor.cs",
+              "RelativeToolTip": "IDataIngestor.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwDIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:03:24.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlarmRule.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\AlarmRule.cs",
+              "RelativeDocumentMoniker": "AlarmRule.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\AlarmRule.cs",
+              "RelativeToolTip": "AlarmRule.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:02:32.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadProfileDay.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\LoadProfileDay.cs",
+              "RelativeDocumentMoniker": "LoadProfileDay.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\LoadProfileDay.cs",
+              "RelativeToolTip": "LoadProfileDay.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T02:01:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBillingRule.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IBillingRule.cs",
+              "RelativeDocumentMoniker": "IBillingRule.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IBillingRule.cs",
+              "RelativeToolTip": "IBillingRule.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAA9wC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:47:50.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IReadable.cs",
+              "RelativeDocumentMoniker": "IReadable.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\IReadable.cs",
+              "RelativeToolTip": "IReadable.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:14:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Device.cs",
+              "RelativeDocumentMoniker": "Device.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Device.cs",
+              "RelativeToolTip": "Device.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:26:01.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Tariff.cs",
+              "RelativeDocumentMoniker": "Tariff.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Tariff.cs",
+              "RelativeToolTip": "Tariff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:31:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Meter.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Meter.cs",
+              "RelativeDocumentMoniker": "Meter.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Meter.cs",
+              "RelativeToolTip": "Meter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:26:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Day2Tasks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:29:53.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

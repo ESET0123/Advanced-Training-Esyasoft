@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Migrations\\20251023090822_sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20251023090822_sss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:models\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\data\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:data\\repository\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\data\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:data\\repository\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\models\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:models\\authordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\data\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:data\\repository\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|d:\\esyasoft-get\\dot net\\advance training\\librarymanagementapi\\data\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D86657E-18FE-47D5-A9D2-088D1966F8DE}|LibraryManagementAPI.csproj|solutionrelative:data\\repository\\iauthorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251023090822_sss.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Migrations\\20251023090822_sss.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251023090822_sss.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Migrations\\20251023090822_sss.cs",
+              "RelativeToolTip": "Migrations\\20251023090822_sss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T09:08:22.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Controllers\\AuthorController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:19:58.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:19:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T05:05:31.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IBookRepository.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\IBookRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:52:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\BookRepository.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\BookRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\BookRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:57:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthorRepository.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\IAuthorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\IAuthorRepository.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\IAuthorRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\IAuthorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:52:34.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository\\AuthorRepository.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\Repository\\AuthorRepository.cs",
+              "RelativeToolTip": "Data\\Repository\\AuthorRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:57:27.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:45:10.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDTO.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\BookDTO.cs",
+              "RelativeDocumentMoniker": "Models\\BookDTO.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\BookDTO.cs",
+              "RelativeToolTip": "Models\\BookDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:55:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:38:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:38:19.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorDTO.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\AuthorDTO.cs",
+              "RelativeDocumentMoniker": "Models\\AuthorDTO.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\LibraryManagementAPI\\Models\\AuthorDTO.cs",
+              "RelativeToolTip": "Models\\AuthorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T06:54:21.394Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

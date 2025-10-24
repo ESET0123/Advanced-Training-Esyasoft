@@ -1,0 +1,15 @@
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\bin\Debug\net8.0\Basicstask.exe
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\bin\Debug\net8.0\Basicstask.deps.json
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\bin\Debug\net8.0\Basicstask.runtimeconfig.json
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\bin\Debug\net8.0\Basicstask.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\bin\Debug\net8.0\Basicstask.pdb
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.AssemblyInfoInputs.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.AssemblyInfo.cs
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.csproj.CoreCompileInputs.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.sourcelink.json
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\refint\Basicstask.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.pdb
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\Basicstask.genruntimeconfig.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\Basicstask\obj\Debug\net8.0\ref\Basicstask.dll

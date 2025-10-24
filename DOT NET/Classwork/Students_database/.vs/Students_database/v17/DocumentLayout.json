@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|d:\\esyasoft-get\\dot net\\advance training\\students_database\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|d:\\esyasoft-get\\dot net\\advance training\\students_database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|d:\\esyasoft-get\\dot net\\advance training\\students_database\\models\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|solutionrelative:models\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|d:\\esyasoft-get\\dot net\\advance training\\students_database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|d:\\esyasoft-get\\dot net\\advance training\\students_database\\students_database.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{61B3D041-F925-42D6-89B8-B7EB8E958A2F}|Students_database.csproj|solutionrelative:students_database.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T09:22:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:59:30.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CollegeContext.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Models\\CollegeContext.cs",
+              "RelativeDocumentMoniker": "Models\\CollegeContext.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Models\\CollegeContext.cs",
+              "RelativeToolTip": "Models\\CollegeContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:06:35.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Students_database.http",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Students_database.http",
+              "RelativeDocumentMoniker": "Students_database.http",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Students_database.http",
+              "RelativeToolTip": "Students_database.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-16T08:59:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Students_database\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:45:25.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

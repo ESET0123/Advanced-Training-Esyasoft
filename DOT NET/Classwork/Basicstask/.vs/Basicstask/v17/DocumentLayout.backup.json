@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|d:\\esyasoft-get\\dot net\\advance training\\basicstask\\meter3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|solutionrelative:meter3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|d:\\esyasoft-get\\dot net\\advance training\\basicstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|d:\\esyasoft-get\\dot net\\advance training\\basicstask\\meter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|solutionrelative:meter2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|d:\\esyasoft-get\\dot net\\advance training\\basicstask\\meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CBA153E-8239-4123-B699-0B2690255FF6}|Basicstask.csproj|solutionrelative:meter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meter3.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Meter3.cs",
+              "RelativeDocumentMoniker": "Meter3.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Meter3.cs*",
+              "RelativeToolTip": "Meter3.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAC3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:03:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Meter2.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Meter2.cs",
+              "RelativeDocumentMoniker": "Meter2.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Meter2.cs",
+              "RelativeToolTip": "Meter2.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:48:40.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Meter.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Meter.cs",
+              "RelativeDocumentMoniker": "Meter.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Meter.cs",
+              "RelativeToolTip": "Meter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:27:44.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Esyasoft-GET\\DOT NET\\Advance Training\\Basicstask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T04:26:50.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

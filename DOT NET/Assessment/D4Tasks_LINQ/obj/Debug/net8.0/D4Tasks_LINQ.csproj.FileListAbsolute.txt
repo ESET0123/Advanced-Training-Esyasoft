@@ -1,0 +1,15 @@
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\bin\Debug\net8.0\D4Tasks_LINQ.exe
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\bin\Debug\net8.0\D4Tasks_LINQ.deps.json
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\bin\Debug\net8.0\D4Tasks_LINQ.runtimeconfig.json
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\bin\Debug\net8.0\D4Tasks_LINQ.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\bin\Debug\net8.0\D4Tasks_LINQ.pdb
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.AssemblyInfoInputs.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.AssemblyInfo.cs
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.csproj.CoreCompileInputs.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.sourcelink.json
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\refint\D4Tasks_LINQ.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.pdb
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\D4Tasks_LINQ.genruntimeconfig.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\D4Tasks_LINQ\obj\Debug\net8.0\ref\D4Tasks_LINQ.dll

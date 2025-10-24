@@ -1,0 +1,15 @@
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\bin\Debug\net8.0\ConsoleApp4 LINQ.exe
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\bin\Debug\net8.0\ConsoleApp4 LINQ.deps.json
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\bin\Debug\net8.0\ConsoleApp4 LINQ.runtimeconfig.json
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\bin\Debug\net8.0\ConsoleApp4 LINQ.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\bin\Debug\net8.0\ConsoleApp4 LINQ.pdb
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.AssemblyInfoInputs.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.AssemblyInfo.cs
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.csproj.CoreCompileInputs.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.sourcelink.json
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\refint\ConsoleApp4 LINQ.dll
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.pdb
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ConsoleApp4 LINQ.genruntimeconfig.cache
+D:\Esyasoft-GET\DOT NET\Advance Training\ConsoleApp4 LINQ\obj\Debug\net8.0\ref\ConsoleApp4 LINQ.dll

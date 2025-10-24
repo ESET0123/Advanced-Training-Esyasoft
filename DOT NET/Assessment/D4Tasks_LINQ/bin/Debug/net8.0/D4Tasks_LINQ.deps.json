@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "D4Tasks_LINQ/1.0.0": {
+        "runtime": {
+          "D4Tasks_LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "D4Tasks_LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
