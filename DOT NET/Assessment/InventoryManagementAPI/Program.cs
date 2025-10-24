@@ -22,6 +22,8 @@ namespace InventoryManagementAPI
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            //builder.Services.AddScoped < IGenericRepository<Product>, IGenericRepository<Product>>();
+            //builder.Services.AddScoped<IGenericRepository<Category>, IGenericRepository< Category >> ();
 
             var app = builder.Build();
 

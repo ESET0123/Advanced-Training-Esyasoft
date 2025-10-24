@@ -14,7 +14,7 @@ namespace InventoryManagementAPI.Repository
         public GenericRepository(InventoryManagementContext dbcontext)
         {
             _dbcontext = dbcontext;
-            _dbSet = dbcontext.Set<T>();
+            _dbSet = _dbcontext.Set<T>();
         }
 
         public async Task Add(T entity)

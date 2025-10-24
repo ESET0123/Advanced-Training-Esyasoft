@@ -5,7 +5,7 @@
 namespace InventoryManagementAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class im : Migration
+    public partial class inv : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

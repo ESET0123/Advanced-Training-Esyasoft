@@ -23,7 +23,7 @@ namespace InventoryManagementAPI.Controllers
         [HttpGet("category/all")]
         public async Task<ActionResult<List<Category>>> GetAllCategory()
         {
-            var students =  _categoryRepository.GetAll();
+            var students = await _categoryRepository.GetAll();
             return Ok(students);
         }
 
@@ -35,7 +35,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("ID must be greater than 0");
             }
 
-            var student =  _categoryRepository.GetById(id);
+            var student = await _categoryRepository.GetById(id);
 
             if (student == null)
             {
@@ -67,7 +67,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("Category cannot be null");
             }
 
-            _categoryRepository.Update(student);
+            await _categoryRepository.Update(student);
             return Ok(new { message = "Category updated successfully"});
         }
 
@@ -79,7 +79,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("ID must be greater than 0");
             }
 
-                _categoryRepository.Delete(id);
+                await _categoryRepository.Delete(id);
 
             return Ok(new { message = "Category deleted successfully", success = true });
         }
@@ -88,7 +88,7 @@ namespace InventoryManagementAPI.Controllers
         [HttpGet("product/all")]
         public async Task<ActionResult<List<Category>>> GetAllProducts()
         {
-            var students = _categoryRepository.GetAll();
+            var students = await _categoryRepository.GetAll();
             return Ok(students);
         }
 
@@ -100,7 +100,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("ID must be greater than 0");
             }
 
-            var student = _categoryRepository.GetById(id);
+            var student = await _categoryRepository.GetById(id);
 
             if (student == null)
             {
@@ -120,7 +120,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("Category cannot be null");
             }
 
-            _categoryRepository.Add(student);
+            await _categoryRepository.Add(student);
             return Ok(new { message = "Category created successfully" });
         }
 
@@ -132,7 +132,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("Category cannot be null");
             }
 
-            _categoryRepository.Update(student);
+            await _categoryRepository.Update(student);
             return Ok(new { message = "Category updated successfully" });
         }
 
@@ -144,7 +144,7 @@ namespace InventoryManagementAPI.Controllers
                 return BadRequest("ID must be greater than 0");
             }
 
-            _categoryRepository.Delete(id);
+            await _categoryRepository.Delete(id);
 
             return Ok(new { message = "Category deleted successfully", success = true });
         }
