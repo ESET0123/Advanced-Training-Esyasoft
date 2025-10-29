@@ -37,6 +37,11 @@ namespace CollegeManagementAPI.Repository
             return await _dbcontext.Courses.Where(n => n.CourseId == id).FirstOrDefaultAsync();
         }
 
+        public async Task<Course?> GetByNameAsync(string name)
+        {
+            return await _dbcontext.Courses.Where(n => n.CourseName == name).FirstOrDefaultAsync();
+        }
+
         public async Task UpdateAsync(Course employee)
         {
             var existingCourse = await _dbcontext.Courses.Where(n => n.CourseId == employee.CourseId).FirstOrDefaultAsync();

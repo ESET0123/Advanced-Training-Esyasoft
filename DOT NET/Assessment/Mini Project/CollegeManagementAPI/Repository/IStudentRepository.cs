@@ -8,6 +8,8 @@ namespace CollegeManagementAPI.Repository
 
         Task<Student?> GetByIdAsync(int id);
 
+        Task<Student?> GetByNameAsync(string name);
+
         Task AddAsync(Student employee);
 
         Task UpdateAsync(Student employee);

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,8 +70,7 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T10:43:58.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:43:58.849Z"
             },
             {
               "$type": "Document",
@@ -83,18 +82,17 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T10:43:57.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:43:57.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-28T10:40:38.007Z",
               "EditorCaption": ""
@@ -107,20 +105,20 @@
               "RelativeDocumentMoniker": "Views\\Student\\Student.cshtml",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Student\\Student.cshtml",
               "RelativeToolTip": "Views\\Student\\Student.cshtml",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAwwP8AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAwwJABAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-28T10:29:28.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Course.cshtml",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Course.cshtml",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml",
               "RelativeToolTip": "Views\\Course\\Course.cshtml",
-              "ViewState": "AgIAACcBAAAAAAAAAAAwwD8BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAwwI8BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-28T10:29:02.731Z",
               "EditorCaption": ""
@@ -135,8 +133,7 @@
               "RelativeToolTip": "Controllers\\CourseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T10:28:30.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:28:30.336Z"
             },
             {
               "$type": "Document",
@@ -148,8 +145,7 @@
               "RelativeToolTip": "Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T10:28:07.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:28:07.908Z"
             },
             {
               "$type": "Document",
@@ -161,8 +157,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T10:08:31.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:08:31.135Z"
             },
             {
               "$type": "Document",
@@ -174,8 +169,7 @@
               "RelativeToolTip": "Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAC0AAAAAAAAAAAAmwDsAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T10:05:09.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:05:09.756Z"
             },
             {
               "$type": "Document",
@@ -187,8 +181,7 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T10:04:51.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:04:51.503Z"
             }
           ]
         }

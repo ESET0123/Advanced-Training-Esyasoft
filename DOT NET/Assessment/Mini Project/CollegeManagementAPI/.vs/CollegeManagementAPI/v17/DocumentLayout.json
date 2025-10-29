@@ -3,32 +3,36 @@
   "WorkspaceRootPath": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1B0E585-DFF5-473C-A0BA-BE3938D57015}|CollegeManagementAPI.csproj|solutionrelative:repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,20 +70,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T10:31:29.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -95,28 +95,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\StudentRepository.cs",
               "RelativeToolTip": "Repository\\StudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:43:40.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IStudentRepository.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\IStudentRepository.cs",
               "RelativeToolTip": "Repository\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:43:16.404Z"
+              "WhenOpened": "2025-10-28T09:43:16.404Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,66 +127,66 @@
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwHEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:40:23.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CourseController.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Controllers\\CourseController.cs",
               "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwvzkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:07:35.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA0AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAsAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:21:01.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\CourseRepository.cs",
               "RelativeDocumentMoniker": "Repository\\CourseRepository.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\CourseRepository.cs",
               "RelativeToolTip": "Repository\\CourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:08:57.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ICourseRepository.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\ICourseRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ICourseRepository.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Repository\\ICourseRepository.cs",
               "RelativeToolTip": "Repository\\ICourseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T09:08:45.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -193,12 +194,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:03:58.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T09:03:58.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -210,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CollegeManagementDbContext.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI\\Models\\CollegeManagementDbContext.cs",
               "RelativeDocumentMoniker": "Models\\CollegeManagementDbContext.cs",
@@ -218,8 +218,7 @@
               "RelativeToolTip": "Models\\CollegeManagementDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T09:01:28.801Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T09:01:28.801Z"
             }
           ]
         }

@@ -36,6 +36,11 @@ namespace CollegeManagementAPI.Repository
             return await _dbcontext.Students.Where(n => n.StudentId == id).FirstOrDefaultAsync();
         }
 
+        public async Task<Student?> GetByNameAsync(string name)
+        {
+            return await _dbcontext.Students.Where(n => n.Name == name).FirstOrDefaultAsync();
+        }
+
         public async Task UpdateAsync(Student employee)
         {
             var existingStudent = await _dbcontext.Students.Where(n => n.StudentId == employee.StudentId).FirstOrDefaultAsync();
@@ -56,7 +61,5 @@ namespace CollegeManagementAPI.Repository
 
             await _dbcontext.SaveChangesAsync();
         }
-
-
     }
 }

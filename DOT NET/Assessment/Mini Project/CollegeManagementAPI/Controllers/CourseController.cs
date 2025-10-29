@@ -32,7 +32,7 @@ namespace CollegeManagementAPI.Controllers
         [ProducesResponseType(400)]
         [ProducesResponseType(401)]
         [ProducesResponseType(404)]
-        public async Task<ActionResult<Course>> getcoursebyid(int id)
+        public async Task<ActionResult<Course>> GetCoursebyId(int id)
         {
             if (id == 0)
             {
@@ -42,6 +42,25 @@ namespace CollegeManagementAPI.Controllers
             if (student == null)
             {
                 return NotFound($"Id {id} not found");
+            }
+            return Ok(student);
+        }
+
+        [HttpGet("{name:Alpha}")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
+        [ProducesResponseType(404)]
+        public async Task<ActionResult<Course>> GetCourseByName(string name)
+        {
+            if (name == null)
+            {
+                return BadRequest();
+            }
+            var student = await _courseRepo.GetByNameAsync(name);
+            if (student == null)
+            {
+                return NotFound($"Name {name} not found");
             }
             return Ok(student);
         }

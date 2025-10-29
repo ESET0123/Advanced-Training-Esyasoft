@@ -46,6 +46,25 @@ namespace CollegeManagementAPI.Controllers
             return Ok(student);
         }
 
+        [HttpGet("{name:Alpha}")]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(401)]
+        [ProducesResponseType(404)]
+        public async Task<ActionResult<Student>> GetStudentByName(string name)
+        {
+            if (name == null)
+            {
+                return BadRequest();
+            }
+            var student = await _studentRepo.GetByNameAsync(name);
+            if (student == null)
+            {
+                return NotFound($"Name {name} not found");
+            }
+            return Ok(student);
+        }
+
         [HttpPost("Create")]
         [ProducesResponseType(200)]
         [ProducesResponseType(400)]
