@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\course\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\mini project\\collegemanagementapi_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31F07FEB-45E3-4383-9006-10AC6F083EA4}|CollegeManagementAPI_View.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T10:43:58.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T10:43:57.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T10:40:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Student\\Student.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Student.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Student\\Student.cshtml",
+              "RelativeToolTip": "Views\\Student\\Student.cshtml",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAwwP8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T10:29:28.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml",
+              "RelativeDocumentMoniker": "Views\\Course\\Course.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml",
+              "RelativeToolTip": "Views\\Course\\Course.cshtml",
+              "ViewState": "AgIAACcBAAAAAAAAAAAwwD8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T10:29:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:28:30.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:28:07.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:08:31.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T10:05:09.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T10:04:51.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,3 @@
-
 using EmployeeManagementAPI.Models;
 using EmployeeManagementAPI.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -15,9 +14,19 @@ namespace EmployeeManagementAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
 
             builder.Services.AddControllers();
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowUI", policy =>
+                {
+                    policy.WithOrigins("https://localhost:7207") // your UI project's URL
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddDbContext<EmployeeDbContext>(options =>
             {
@@ -25,10 +34,9 @@ namespace EmployeeManagementAPI
             });
             builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            // Add Swagger with JWT Support
+
             builder.Services.AddSwaggerGen(options =>
             {
                 options.SwaggerDoc("v1", new OpenApiInfo
@@ -49,22 +57,21 @@ namespace EmployeeManagementAPI
                     Description = "Enter 'Bearer' [space] and then your token.\n\nExample: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."
                 });
 
-                // ?? Apply to all endpoints
                 options.AddSecurityRequirement(new OpenApiSecurityRequirement
-     {
-         {
-             new OpenApiSecurityScheme
-             {
-                 Reference = new OpenApiReference
-                 {
-                     Type = ReferenceType.SecurityScheme,
-                     Id = "Bearer"
-                 }
-             },
-             Array.Empty<string>()
-         }
-     });
-            });
+                {
+                    {
+                        new OpenApiSecurityScheme
+                        {
+                            Reference = new OpenApiReference
+                            {
+                                Type = ReferenceType.SecurityScheme,
+                                Id = "Bearer"
+                            }
+                        },
+                        Array.Empty<string>()
+                    }
+                });
+             });
 
             var jwtSettings = builder.Configuration.GetSection("Jwt");
             var key = Encoding.ASCII.GetBytes(jwtSettings["Key"]);
@@ -90,7 +97,6 @@ namespace EmployeeManagementAPI
 
             var app = builder.Build();
 
-            // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -98,6 +104,9 @@ namespace EmployeeManagementAPI
             }
 
             app.UseHttpsRedirection();
+
+            //CORSE
+            app.UseCors("AllowUI");
 
             app.UseAuthorization();
 
