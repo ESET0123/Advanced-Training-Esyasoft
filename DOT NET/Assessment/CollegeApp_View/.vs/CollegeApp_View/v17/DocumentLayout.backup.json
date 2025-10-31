@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|d:\\advanced-training-esyasoft\\dot net\\assessment\\collegeapp_view\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C4A5E4-45D3-41FB-A32A-64614AFDB931}|CollegeApp_View.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T11:15:25.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -59,33 +76,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Views\\Employee\\Index.cshtml",
               "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAmwLIAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAkwOgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-27T09:49:47.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA6wBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T09:17:53.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Auth\\Login.cshtml",
@@ -98,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
@@ -111,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\CollegeApp_View\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",

@@ -94,8 +94,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T10:40:38.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:40:38.007Z"
             },
             {
               "$type": "Document",
@@ -107,8 +106,7 @@
               "RelativeToolTip": "Views\\Student\\Student.cshtml",
               "ViewState": "AgIAAHgBAAAAAAAAAAAwwJABAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-28T10:29:28.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T10:29:28.866Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,8 @@
               "Title": "Course.cshtml",
               "DocumentMoniker": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml",
               "RelativeDocumentMoniker": "Views\\Course\\Course.cshtml",
-              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml*",
-              "RelativeToolTip": "Views\\Course\\Course.cshtml*",
+              "ToolTip": "D:\\Advanced-Training-Esyasoft\\DOT NET\\Assessment\\Mini Project\\CollegeManagementAPI_View\\Views\\Course\\Course.cshtml",
+              "RelativeToolTip": "Views\\Course\\Course.cshtml",
               "ViewState": "AgIAAHcBAAAAAAAAAAAwwI8BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-28T10:29:02.731Z",
